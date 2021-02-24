@@ -2,5 +2,6 @@ apple
 pear
 plum
 mango
-lime
-grape
+lime - lemon
+grape - banana
+peach
