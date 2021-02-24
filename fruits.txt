@@ -5,3 +5,4 @@ mango
 lime - lemon
 grape - banana
 peach
+strawberry
